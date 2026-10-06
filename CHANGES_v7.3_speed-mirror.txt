@@ -1,0 +1,11 @@
+ISWAS_v7.3 — 2026-10-06 patch (John via MONEYPENNYLANE)
+
+1) Tour/playback speed fixed at 33% (0.33). Speed pill (.tour-speed) removed from UI; no user control. Hard-coded in lodge-canvas-DQJIxxEN.js.
+2) Gallery mirror reflection unchanged visually. Not clickable: mesh raycast disabled, openMirrorPortal no-op, .magic-glass cursor/pointer-events cleared in styles-DUFhvYpD.css.
+
+Files touched:
+- assets/index-7le_n55D.js
+- assets/lodge-canvas-DQJIxxEN.js
+- assets/styles-DUFhvYpD.css
+
+github_upload/ rebuilt for manual upload (no GitHub push).
